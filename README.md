@@ -6,4 +6,4 @@ of a website called nature.com. It takes the user input about the topic and numb
 scraper will go through to find articles about the given topics. In the end, you will have different files
 with the text from the articles of the given topic.
 
-You can use the web scraper by running the python file, typing in the number of pages that you want to include in the search and then typing in t
+You can use the web scraper by running the python file, typing in the number of pages that you want to include in the search and then typing in the broad topic of article e. g. history, news...
